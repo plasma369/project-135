@@ -10,3 +10,10 @@
     font-size: 23px;
     color: white;
 }
+
+canvas
+{
+    margin-top: 180px;
+    border-radius: 10px;
+    color: gray;
+}
